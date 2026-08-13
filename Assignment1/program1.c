@@ -1,6 +1,7 @@
 
 // 1.Program to divide two numbers
 
+
 #include<stdio.h>
 
   int Divide(iNo1,iNo2)        //Function
